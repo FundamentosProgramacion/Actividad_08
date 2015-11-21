@@ -1,0 +1,17 @@
+negra 0.789
+silencio blanca,fa4 corchea,la4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio corchea,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio semicorchea,do4 semicorchea,fa4 corchea,sol4 corchea,fa4 corchea,la4 corchea
+la4 corchea,la4 negra,la4 corchea,la4 negra,sol4 corchea,fa4 corchea
+fa4 negra,silencio negra,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio corchea,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio semicorchea,do4 semicorchea,fa4 corchea,sol4 corchea,fa4 corchea,la4 corchea
+la4 corchea,la4 negra,la4 corchea,la4 negra,sol4 corchea,fa4 corchea
+fa4 negra,silencio negra,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio semicorchea,do4 semicorchea,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio corchea,fa4 corchea,sol4 corchea,fa4 corchea,la4 corchea
+silencio corchea,la4 negra,la4 corchea,la4 negra,sol4 corchea,fa4 corchea
+fa4 negra,silencio negra,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio corchea,fa4 corchea,sol4 corchea,fa4 corchea,do5 corchea
+do5 corchea,la4 negra,silencio corchea,fa4 corchea,sol4 corchea,fa4 corchea,la4 corchea
+fa4 negra,silencio corchea,la4 corchea,la4 negra,sol4 semicorchea,fa4 corchea
