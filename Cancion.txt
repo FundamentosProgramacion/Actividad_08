@@ -1,0 +1,56 @@
+negra 0.5
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,re5 negra
+sol5 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,do6 corchea,la5 redonda
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,re5 negra
+sol5 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,do6 corchea,la5 redonda
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,mi5 blancaPuntillo
+do6 corchea,si5 corchea,la5 corchea,sol5 negra
+sol5 corchea,la5 corchea,si5 corchea,la5 negra
+mi5 negra,fa#5 blanca
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,mi5 blancaPuntillo
+do6 corchea,si5 corchea,la5 corchea,sol5 negra
+re6 negra,la5 blanca
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,mi5 blancaPuntillo
+do6 corchea,si5 corchea,la5 corchea,sol5 negra
+sol5 corchea,la5 corchea,si5 corchea,la5 negra
+mi5 negra,fa#5 blanca
+re6 corchea,silencio semiCorchea,re6 corchea,sol6 negra,fa6 corchea
+re#6 negra,re6 negra,do6 negra,la#5 negra
+la5 blanca,sol5 blanca
+re6 redonda
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,re5 negra
+sol5 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,do6 corchea,la5 redonda
+re5 corchea,silencio semiCorchea,re5 corchea,silencio semiCorchea,re5 negra
+sol5 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,la5 corchea,sol6 blanca,re6 blanca
+do6 corchea,si5 corchea,do6 corchea,la5 redonda
+silencio redonda
+sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,la#4 corchea,silencio semiCorchea,la#4 corchea,silencio semiCorchea
+sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,la#4 corchea,silencio semiCorchea,la#4 corchea,silencio semiCorchea
+sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,la#4 corchea,silencio semiCorchea,la#4 corchea,silencio semiCorchea
+sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,la#4 corchea,silencio semiCorchea,la#4 corchea,silencio semiCorchea
+sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea,sol4 negra,silencio semiCorchea
+re#4 negra,la#4 corchea,sol4 negra
+re#4 negra,la#4 corchea,sol4 blancaPuntillo
+re5 negra,silencio semiCorchea,re5 negra,silencio semiCorchea,re5 negra,silencio semiCorchea
+re#5 negra,la#4 corchea,fa4 negra
+re#4 negra,la#4 corchea,sol4 blancaPuntillo
+sol5 negra,silencio semiCorchea,sol5 negra,silencio semiCorchea,sol5 corchea,silencio semiCorchea,fa#5 blanca
+fa5 negra,mi5 corchea,re#5 corchea,mi5 corchea,silencio corchea
+sol#4 blanca,do#5 negra,do5 negra
+si4 corchea,la#4 corchea,la4 corchea
+la#4 corchea,silencio corchea
+re#4 blanca,silencio semiCorchea
+fa#4 negra,silencio semiCorchea,fa#4 negra,silencio semiCorchea
+la#4 negra,silencio semiCorchea,sol4 corchea,silencio semiCorchea,re#4 blanca,silencio semiCorchea
+la#4 negra,sol4 redonda
