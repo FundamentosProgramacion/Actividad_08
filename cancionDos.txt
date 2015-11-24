@@ -1,0 +1,12 @@
+negra 0.3
+do7 blancaPuntillo,si6 negra,la6 negra,sol6 negra,mi6 negra,do7 negra
+si6 blancaPuntillo,la6 negra,sol6 negra,mi6 negra,do6 negra,si6 negra
+la6 blancaPuntillo,sol6 negra,mi6 negra,do6 negra,re6 negra,si6 negra
+la6 blancaPuntillo,re6 negra,mi6 negra,fa6 negra,la6 negra,sol6 blancaPuntillo
+re7 blancaPuntillo,do7 negra,si6 negra,la6 negra,fa6 negra,do7 negra
+si6 blancaPuntillo,la6 corchea,si6 corchea,la6 negra,sol6 negra,fa6 negra,re6 negra,si6 negra
+la6 blancaPuntillo,sol6 negra,fa6 negra,mi6 negra,re6 negra,la6 negra
+la6 negra,si6 blancaPuntillo,la6 negra,sol6 blancaPuntillo
+do7 blancaPuntillo,si6 corchea,do7 corchea,si6 negra,la6 negra,sol6 negra,mi6 negra,do7 negra
+si6 blancaPuntillo,la6 negra,sol6 negra,mi6 negra,do6 negra,si6 negra
+la6 blancaPuntillo,sol6 negra,mi6 negra,do6 negra,do7 blancaPuntillo
