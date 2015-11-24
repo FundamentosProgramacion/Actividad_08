@@ -1,0 +1,9 @@
+negra 0.75 
+sol4 corchea,sol4 corchea
+la4 negraPuntillo,sol4 negraPuntillo, do3 negraPuntillo
+si3 blancaPuntillo,sol4 corchea,sol4 corchea
+la4 negraPuntillo ,sol4 negraPuntillo ,re3 negraPuntillo
+do3 blancaPuntillo,do 3 corchea, mi3 corchea
+sol4 negraPuntilo,mi4 negraPuntillo,do4 negraPuntillo
+si3 negraPuntillo,la4 negraPuntillo ,fa3 corchea ,fa3 corchea
+mi3 negraPuntillo ,do3 negraPuntillo ,re3 negraPuntillo
