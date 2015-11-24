@@ -1,0 +1,46 @@
+negra 0.15     
+re6 negraPuntillo,la5 negraPuntillo
+fa5 corchea,silencio corchea
+re6 negraPuntillo,la5 negraPuntillo
+fa5 corchea,silencio corchea
+re6 negraPuntillo,la5 negraPuntillo
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+si5 negraPuntillo,sol5 negraPuntillo
+mi5 corchea,silencio corchea
+si5 negraPuntillo,sol5 negraPuntillo
+mi5 corchea,silencio corchea
+si5 negraPuntillo,sol5 negraPuntillo
+re6 negraPuntillo,la5 negraPuntillo
+fa5 corchea,silencio corchea
+re6 negraPuntillo,la5 negraPuntillo
+fa5 corchea,silencio corchea
+re6 negraPuntillo,la5 negraPuntillo
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+mi5 corchea,silencio corchea
+do6 negraPuntillo,la5 negraPuntillo
+si5 negraPuntillo,sol5 negraPuntillo
+mi5 corchea,silencio corchea
+si5 negraPuntillo,sol5 negraPuntillo
+mi5 corchea,silencio corchea
+si5 negraPuntillo,sol5 negraPuntillo
+ 
+
+
+
+
