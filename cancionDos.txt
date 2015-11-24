@@ -1,0 +1,23 @@
+negra 0.5
+fa5 blanca,fa5 negra,fa5 negra
+mi5 negra,fa5 blanca,fa5 negra
+mi5 negra,fa5 blanca,sol5 negra
+la5 blanca,sol5 blanca
+fa5 blanca,fa5 negra,fa5 negra
+mi5 negra,fa5 blanca,fa5 negra
+do5 redonda
+silencio corchea,fa5 redonda
+sol5 blancaPuntillo,do5 negra
+do5 blanca,si5 negraPuntillo,la5 negra
+sol5 blanca,la5 negra,si5 negraPuntillo
+la5 blanca,sol5 negra,fa5 negra
+mi5 negra,fa5 blanca,fa5 negra
+do5 redonda
+silencio corchea
+fa5 redonda
+sol5 blancaPuntillo,do5 negra
+do5 blanca,si5 negraPuntillo,la5 negra
+sol5 blanca,la5 negra,si5 negraPuntillo
+la5 blanca,sol5 negra,fa5 negra
+mi5 negra,fa5 blanca,fa5 negra
+mi5 negra,fa5 blanca,sol5 negra
