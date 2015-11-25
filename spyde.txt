@@ -1,0 +1,7 @@
+negra 0.5
+silencio corchea,do5 corchea,do5 negra,mi5 corchea,sol5 corchea,sol5 negra
+silencio corchea,sol5 corchea,sol5 negra,mi5 corchea,do5 corchea,do5 negra
+silencio corchea,do5 corchea,do5 negra,mi5 corchea,sol5 corchea,sol5 corchea,sol5 corchea
+sol5 corchea,sol5 corchea,fa5 negra,re5 corchea,do5 corchea,do5 negra
+silencio corchea,do5 corchea,fa5 negra,d06 corchea,do6 negra
+silencio corchea,do6 corchea,do6 negra,la5 corchea,fa5 corchea,fa5 negra 
