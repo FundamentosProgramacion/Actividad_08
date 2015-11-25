@@ -1,0 +1,8 @@
+negra 0.5
+fa5 negra,fa5 negra,fa5 negra,fa5 negra,mi5 negra,fa5 negra,fa5 negra,mi5 negra
+fa5 negra,la5 negra,sol5 negra,fa5 negra,fa5 negra,fa5 negra,fa5 negra
+mi5 negra,fa5 negra,fa5 negra,do5 negra
+re5 negra,mi5 negra,fa5 negra,sol5 negra,do5 negra,do5 negra,si5 negra
+la5 negra,sol5 negra,la5 negra,si5 negra,la5 negra,sol5 negra,fa5 negra,mi5 negra
+fa5 negra,mi5 negra,re5 negra,do5 negra,si5 negra
+mi5 negra,fa5 negra,mi5 negra,mi5 negra,mi5 negra,fa5 negra,sol5 negra,la5 negra
