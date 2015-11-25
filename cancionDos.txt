@@ -1,0 +1,14 @@
+negra 0.5
+mi5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 corchea
+re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea
+re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea
+do6 corchea,la5 corchea,fa5 corchea,do6 corchea,la5 corchea,fa5 corchea,do6 corchea,la5 corchea
+mi5 corchea,mi5 corchea,mi5 corchea,mi5 corchea,mi5 corchea,mi5 corchea,mi5 corchea,mi5 corchea
+si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea
+si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea,si4 corchea
+fa4 corchea,fa4 corchea,fa4 corchea,fa4 corchea,fa4 corchea,fa4 corchea,fa4 corchea,fa4 corchea
+re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 negra
+mi5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 corchea
+re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea,sol5 corchea,mi5 corchea,si5 negra
+re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea,fa5 corchea,re5 corchea,si5 corchea
+re6 negra,re6 negra,re6 negra,re6 corchea,si5 corchea
