@@ -1,0 +1,12 @@
+negra 0.5
+si5 blanca,do5 negra,re5 negra 
+re5 negra,do5 negra,si5 negra,la5 negra
+sol5 negra,sol5 negra,la5 negra,si5 negra
+si5 blanca,la5 blanca
+si5 blanca,do5 negra,re5 negra
+re5 negra,do5 negra,si5 negra,la5 negra
+sol5 negra,sol5 negra,la5 negra,si5 negra
+la5 negra,sol5 semicorchea,sol5 blanca
+la5 blanca,si5 negra,sol5 negra
+la5 negra,si5 negra,do5 negra,si5 negra,sol5 negra
+la5 negra,si5 negra,do5 negra,si5 negra,la5 negra
